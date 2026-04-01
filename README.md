@@ -35,6 +35,24 @@ Federal hiring process exam preparation aligned with OPM/DOI/BLM standards.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧫 Fermented Dairy Protocol
+Evidence-based probiotic fermentation guide — eight targeted strains for gut health, skin, mood, immunity, and more. Based on Dr. William Davis's *Super Gut*.
+
+[![Launch Protocol](https://img.shields.io/badge/Launch_Protocol-4A7C59?style=for-the-badge)](https://breton-training.github.io/fermented-dairy/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 CoPilot Intro
+Introduction to GitHub Copilot — AI-assisted development workflows and best practices.
+
+[![Launch Guide](https://img.shields.io/badge/Launch_Guide-0a192f?style=for-the-badge)](https://breton-training.github.io/CoPilot-intro/)
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -56,6 +74,8 @@ Federal hiring process exam preparation aligned with OPM/DOI/BLM standards.
 **Foundational Education** — Making complex technical concepts accessible, starting from first principles.
 
 **Technical Preservation** — Scanning and archiving legacy equipment manuals for the next generation.
+
+**Microbiome & Fermentation Science** — Translating clinical research into practical home fermentation protocols.
 
 <br>
 
