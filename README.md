@@ -4,7 +4,7 @@
 
 # Jeff Breton
 
-**Technical Trainer · Curriculum Designer · Knowledge Architect**
+**Technical Trainer · Curriculum Designer**
 
 *Building learning systems that start with understanding.*
 
