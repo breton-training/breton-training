@@ -6,7 +6,7 @@
 
 **Technical Trainer · Curriculum Designer · Knowledge Architect**
 
-*Building learning systems that start with understanding — not memorization.*
+*Building learning systems that start with understanding.*
 
 ---
 
