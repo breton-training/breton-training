@@ -23,7 +23,7 @@
 ### ⚡ DC Electronics — Ohm's Law
 An interactive course for ages 7–12 introducing voltage, current, and resistance through character-driven lessons.
 
-[![Launch Course](https://img.shields.io/badge/Launch_Course-0a192f?style=for-the-badge)](https://breton-training.github.io/dc-electronics-intro/)
+[![Launch Course](https://img.shields.io/badge/Launch_Course-2563eb?style=for-the-badge)](https://breton-training.github.io/dc-electronics-intro/)
 
 </td>
 <td width="50%" valign="top">
@@ -31,7 +31,7 @@ An interactive course for ages 7–12 introducing voltage, current, and resistan
 ### 📋 Delegated Examining Study Engine
 Federal hiring process exam preparation aligned with OPM/DOI/BLM standards.
 
-[![Launch Study Guide](https://img.shields.io/badge/Launch_Study_Guide-0a192f?style=for-the-badge)](https://breton-training.github.io/DE-Study-Engine/)
+[![Launch Study Guide](https://img.shields.io/badge/Launch_Study_Guide-e67e22?style=for-the-badge)](https://breton-training.github.io/DE-Study-Engine/)
 
 </td>
 </tr>
@@ -41,7 +41,7 @@ Federal hiring process exam preparation aligned with OPM/DOI/BLM standards.
 ### 🧫 Fermented Dairy Protocol
 Evidence-based probiotic fermentation guide — eight targeted strains for gut health, skin, mood, immunity, and more. Based on Dr. William Davis's *Super Gut*.
 
-[![Launch Protocol](https://img.shields.io/badge/Launch_Protocol-4A7C59?style=for-the-badge)](https://breton-training.github.io/fermented-dairy/)
+[![Launch Protocol](https://img.shields.io/badge/Launch_Protocol-27ae60?style=for-the-badge)](https://breton-training.github.io/fermented-dairy/)
 
 </td>
 <td width="50%" valign="top">
@@ -49,7 +49,7 @@ Evidence-based probiotic fermentation guide — eight targeted strains for gut h
 ### 🤖 CoPilot Intro
 Introduction to GitHub Copilot — AI-assisted development workflows and best practices.
 
-[![Launch Guide](https://img.shields.io/badge/Launch_Guide-0a192f?style=for-the-badge)](https://breton-training.github.io/CoPilot-intro/)
+[![Launch Guide](https://img.shields.io/badge/Launch_Guide-8e44ad?style=for-the-badge)](https://breton-training.github.io/CoPilot-intro/)
 
 </td>
 </tr>
