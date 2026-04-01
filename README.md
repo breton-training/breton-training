@@ -1,11 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<h1 style="font-size:2.2em; margin-bottom:0;">Jeff Breton</h1>
-
-<p><strong>Technical Trainer &nbsp;·&nbsp; Curriculum Designer</strong></p>
-
-<p><em>The answers come from understanding — not from memory of what you studied.</em></p>
+<p style="font-size:1.3em; font-weight:600; margin-bottom:4px;">Technical Trainer &nbsp;·&nbsp; Curriculum Designer</p>
 
 <br/>
 
@@ -16,18 +12,6 @@
 [![Email](https://img.shields.io/badge/breton.training%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:breton.training@gmail.com)
 
 </div>
-
----
-
-## What This Is
-
-These aren't slide decks or knowledge dumps.
-
-Each course here is built around a single question: **can the learner do something with this they couldn't do before?** If the answer isn't yes, the material isn't finished.
-
-Domains vary. The standard doesn't.
-
----
 
 ## Courses
 
@@ -90,11 +74,11 @@ Practical integration of AI assistance into real development work. Focused on bu
 
 ## In Development
 
-| Course | Audience | Status |
-|---|---|---|
-| **Petroleum Terminal Operations** | Terminal operators, new hires | SOP development — AccuLoad systems and terminal management |
-| **Ethanol Handling & Safety** | Industrial personnel | Certification preparation — handling, safety, regulatory compliance |
-| **Technical Resource Library** | Technicians, historians | Digitizing legacy equipment manuals and operational references |
+| Course | Audience | Status | Updated |
+|---|---|---|---|
+| **Petroleum Terminal Operations** | Terminal operators, new hires | SOP development — AccuLoad systems and terminal management | Apr 2026 |
+| **Ethanol Handling & Safety** | Industrial personnel | Certification preparation — handling, safety, regulatory compliance | Apr 2026 |
+| **Technical Resource Library** | Technicians, historians | Digitizing legacy equipment manuals and operational references | Apr 2026 |
 
 ---
 
